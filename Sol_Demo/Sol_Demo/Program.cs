@@ -17,6 +17,7 @@ namespace Sol_Demo
             // Implicit Conversion
             UserModel userModel = userEntity;
 
+            // Implicit Conversion
             userEntity = userModel;
 
             // Explicit Conversion
