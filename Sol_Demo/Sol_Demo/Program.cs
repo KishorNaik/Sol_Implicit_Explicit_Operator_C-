@@ -47,7 +47,7 @@ namespace Sol_Demo
             };
         }
 
-        // Or You can convert vise varsa.
+        // Or You can convert vise versa.
         public static implicit operator UserEntity(UserModel userModel)
         {
             return new UserEntity()
